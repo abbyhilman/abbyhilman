@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning React Native and Laravel or All Javascript framework like vue etc
+- 🌱 I’m currently learning React Native and Laravel or All Javascript framework like react js etc
 
 <!--
 **abbyhilman/abbyhilman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
