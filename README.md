@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React Native and Flutter
-- I wish for this year become Full Stack Developer in Javascript 
+- I wish for this year become Full Stack Developer use Javascript 
 
 <!--
 **abbyhilman/abbyhilman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
