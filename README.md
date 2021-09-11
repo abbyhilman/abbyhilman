@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning React Native and Flutter
+- 🌱 I’m currently learning React Native and MERN
 - I wish for this year become Full Stack Developer use Javascript 
 
 ### Connect with me: 
