@@ -1,20 +1,28 @@
+### Hi there 👋
 
+I am a **Senior Mobile Developer** and **Full Stack Developer**.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbyhilman&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working as a Senior Mobile Developer using **Flutter** and **React Native**.
+- 💻 I also build modern web applications using **Next.js**.
+- 🌱 I specialize in Full Stack Development (Mobile & Web).
+- ⚡ Fun fact: I love solving complex problems with clean code.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbyhilman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Connect with me:
 
-Here are some ideas to get you started:
+[<img align="left" alt="abby-hilman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- 🌱 I’m currently learning Flutter
-- I wish for this year become Full Stack Developer use Javascript 
+<br />
 
-### Connect with me: 
+---
 
-[<img align="left" alt="abby-hilman-696479152 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 📊 GitHub Analytics
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=abbyhilman&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbyhilman&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 [linkedin]: https://www.linkedin.com/in/abby-hilman-696479152/
-
-<!--
-**abbyhilman/abbyhilman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
