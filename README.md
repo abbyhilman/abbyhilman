@@ -18,7 +18,7 @@ I am a **Senior Mobile Developer** and **Full Stack Developer**.
 ### 📊 GitHub Analytics
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abbyhilman&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=abbyhilman&show_icons=true&theme=radical&hide_rank=true" alt="Anurag's GitHub stats" />
 </p>
 
 <p align="left">
