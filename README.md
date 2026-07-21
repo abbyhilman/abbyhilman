@@ -4,7 +4,7 @@ I am a **Senior Software Engineer** specializing in Mobile Banking, Backend Deve
 
 - 🔭 I’m currently working as a Senior Software Engineer using **Kotlin** (Mobile Banking Bale Syariah) and **Next.js**.
 - 🤖 I also build AI-powered solutions, including Enterprise AI Chatbots using Generative AI technologies.
-- 🌱 I specialize in Full Stack Development (Mobile, Web, & AI Integration)[cite: 2].
+- 🌱 I specialize in Full Stack Development (Mobile, Web, & AI Integration).
 - ⚡ Fun fact: I love solving complex problems with clean code and scalable architectures.
 
 ---
